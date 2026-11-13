@@ -1,0 +1,4 @@
+[2026-11-13 03:19:13] INFO: Inicio del sistema de facturación y gestión de niños/as
+[2026-11-13 03:19:13] ERROR: No se pudo conectar a la base de datos principal
+[2026-11-13 03:19:13] INFO: Usuario 'María Peña' inició sesión correctamente
+[2026-11-13 03:19:13] Advertencia con error crítico: tiempo de espera agotado en el servidor
